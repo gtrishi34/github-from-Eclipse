@@ -6,7 +6,7 @@ public class helloRishi {
 		// TODO Auto-generated method stub
 
 		
-		System.out.println("RISHI");
+		System.out.println("RISHIKESH RANJAN");
 	}
 
 }
